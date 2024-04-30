@@ -125,3 +125,16 @@
 - La velocidad se mide en cuanto tiempo se demora un Bite en llegar a conectarse 
 
 # Clase 17 , Qué es el Modelo Cliente/Servidor
+
+- Lo que se ejecuta en el navegador se llama Frontend
+- Y donde se conecta la base de datos se conecta como Backend
+- Existen Base de datos relaciones y no relacionales
+- Node te ayuda a correr JavaScript en el lado de el servidor
+- El servidor es donde se corre el codigo
+- Las 3 fundamentales de Forntend (HMTL - CSS - JAVASCRIPT)
+- GET: Se envia informacion por la URL
+- POST: Se envian los datos de manera oculta
+- AJAX: Se envia y trae info sin cambiar la pagina
+- SOCKET: Transmite datos cliente servidor en tiempo real
+
+# Clase 18 , Qué es el Modelo Cliente/Servidor
