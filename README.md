@@ -56,4 +56,40 @@
 
 - CHIP ( Celulares - Relojes - Algo que no sea pc) No incluyen Disco Duro
 - Todo es en conjunto al contrario que la CPU
-- 
+- Un sistema embebido se dise;an para cubrir necesidades y sus componentes estan en la placa base
+
+# Clase 6 , Diferencia entre RAM Y Disco Duro?
+
+- La memoria RAM o " Memoria de acceso aleatorio"
+- Se organizan los datos de manera secuencial - Persistente - Estructurada
+- Existe disco duro de estado Mecanico "Mas lento" y Estado solido "Mas rapido"
+- Para conectar la CPU Y La RAM, Existe algo llamado "Bus" o "Bridge"
+
+# Clase 7 , GPUs, tarjetas de video y sonido
+
+- La tarjeta grafica o "GPU" "Grafic Process Unit"
+- Se conecta con una tarjeta grafica integrada o un puerto "PCI Express" (Cables de ultra rendimiento)
+- La GPU Tiene su propia RAM de video
+
+# Clase 8 , Periféricos y sistemas de entrada de información
+
+- Los sistemas operativos se cargan en forma de anillos
+- Y es lo primero que se carga en la memoria RAM
+- El Kernel es el primer anillo y tiene mayor acceso
+- Los Drivers o controladores se instalan de segundos
+- Complementos de Drivers se cargan de terceros
+- Las aplicaciones se cargan por ultimo
+- Entre mas lejos de los vamos en los anillos menos permisos tienen
+
+# Clase 9 , La evolución de la arquitectura de la computación
+
+- Al inicio se utilizaban Tubos y engranages
+- En el inicio para enviar un disco duro era muy complejo ya que eran demasiados grandes y pesados
+- Todo la mordernizacion es gracias a la estanderizacion de la computacion
+
+# Clase 10 , Introducción a las redes y protocolos de Internet
+
+-
+
+
+
