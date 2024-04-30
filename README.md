@@ -95,5 +95,33 @@
 - La Ip 127.0.0.1 Siempre nos apunta a nosotros mismos
 - IP LAN : Local Area Network , Puede ser de muchas tipos, Ej: 192.168.0.20
 
-# Clase 11 , Qué es una dirección IP y el protocolo de Internet
+# Clase 12 , Qué es una dirección IP y el protocolo de Internet
 
+- Las Ip Son 32 Bits exactos
+- La mascarada de red es una forma de asignar una red y determina si puede cambiar o no
+- Gateway es es el ultimo elemento que existe al conectarnos a una red
+- "NAT" Network Adress traslations, Es el que traduce las IP En nuestro local
+
+# Clase 13 , Cables submarinos, antenas y satélites en Internet
+
+- El internet funciona a travez de cables submarinos
+- ISP Es una empresa de internet (Claro-Tigo)
+- "DNS" Domain Name Server 
+
+# Clase 14 , Qué es un dominio, DNS o Domain Name System
+
+- Un "DNS" Son servidores que corresponden a una base de datos
+- "MX Records" Es donde se guardan los servidores de correos
+
+# Clase 15 , Cómo los ISP hacen Quality of Service o QoS
+
+- "MAN" Metropolitan Area Network
+- Un CDN Es un conjunto de servidores ubicados en diferentes zonas geograficas
+- Quality Of Service , Los Administradores de Red o IPS Es quienes priorizan que paginas o IPS Van a a limitar ciertas paginas
+
+# Clase 15 , Cómo funciona la velocidad en internet
+
+- El "PING" Es el tiempo que demora la red en establecerse
+- La velocidad se mide en cuanto tiempo se demora un Bite en llegar a conectarse 
+
+# Clase 16 , Qué es el Modelo Cliente/Servidor
