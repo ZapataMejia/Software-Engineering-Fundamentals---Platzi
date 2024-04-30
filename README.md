@@ -2,21 +2,13 @@
 
 # Clase 1 , Que es un Byte, Que es un Bit?
 
-## Tema 1: Fundamentos de la electricidad y la representación de datos
-
 - La electricidad funciona mediante ondas.
 - El sonido se produce a través de ondas.
 - Tres ondas de diferentes colores pueden generar video.
 - El código Morse está basado en tonos.
 - Usamos ceros y unos porque era la cantidad mínima en matemáticas.
-
-## Tema 2: Concepto de Byte y Bit
-
 - IBM 1956 define 1 Byte como un carácter de 8 Bits.
 - El lenguaje donde están constituidos los Bytes se llama "ASCII".
-
-## Tema 3: Aplicaciones de la representación de datos
-
 - Ensamblador: Código de Bytes especiales para instrucciones del procesador.
 - Una dirección IP se compone de 8 Bytes ya que es un valor menor a < 256.
 - Las imágenes también consisten en Bits, donde cada Byte representa un color.
@@ -89,7 +81,19 @@
 
 # Clase 10 , Introducción a las redes y protocolos de Internet
 
--
+- Internet no funciona con satelites
+- "ISP" Provedor de internet
+- "Cloud" Servidor de la Nube
+- Todos los computadores tienen la "MAC Addres" Que permite conectarse
+- Modem ISP Se puede conectar por diferentes tipos de cables
 
+# Clase 11 , Puertos y protocolos de red
 
+- "Ip" Id Protocol
+- Existen varios tipos de IP, Ip que nos identifica a nivel local y a nivel Global
+- El Modem ISP Es quien nos da la IP En local
+- La Ip 127.0.0.1 Siempre nos apunta a nosotros mismos
+- IP LAN : Local Area Network , Puede ser de muchas tipos, Ej: 192.168.0.20
+
+# Clase 11 , Qué es una dirección IP y el protocolo de Internet
 
