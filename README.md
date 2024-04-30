@@ -119,9 +119,9 @@
 - Un CDN Es un conjunto de servidores ubicados en diferentes zonas geograficas
 - Quality Of Service , Los Administradores de Red o IPS Es quienes priorizan que paginas o IPS Van a a limitar ciertas paginas
 
-# Clase 15 , Cómo funciona la velocidad en internet
+# Clase 16 , Cómo funciona la velocidad en internet
 
 - El "PING" Es el tiempo que demora la red en establecerse
 - La velocidad se mide en cuanto tiempo se demora un Bite en llegar a conectarse 
 
-# Clase 16 , Qué es el Modelo Cliente/Servidor
+# Clase 17 , Qué es el Modelo Cliente/Servidor
