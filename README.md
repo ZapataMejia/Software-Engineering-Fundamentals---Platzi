@@ -137,4 +137,53 @@
 - AJAX: Se envia y trae info sin cambiar la pagina
 - SOCKET: Transmite datos cliente servidor en tiempo real
 
-# Clase 18 , Qué es el Modelo Cliente/Servidor
+# Clase 18 , Cómo funciona un sitio web
+
+- Se envia la peticion a travez de el sistema operativo
+- Se hace la HTTP Request
+- Recibe la respuesta de el HTTP , Con los archivos o en caso contrario un 404
+- Assets Request
+- Las cookies van en la request y en el response 
+
+# Clase 19 , Internet es más grande de lo que crees
+
+- Tambien existen componente de internet que no son tan conocidos, Como:
+  - TCP / IP . Es la forma en la que funciona el internet pero existen muchos otros tipos 
+  - TIPOS DE WIFI , Hay varias estandares de internet Wpa Ej
+  - TOR , Forma compleja y muy cifrada 
+  - FIREWALLS , Seguridad y deterner conexiones
+  - SOCKETS , Son sesiones persistentes que nunca se caen 
+  - TETHERING , Como funciona compartir red 
+  - PZP , Saltarnos servidores y enviarnos archivos
+  - REDES MESH ,Internet a prueba de todo 
+  - MULTI-WAM , Conectar multiples tipos de internet 
+  - IP FIJA VS DINAMICA , Como funcionan y cual es la diferencia 
+  - VPN , Red privada virtual, Como mantener tu sesion segura 
+  - TTL , Tiempo de vida de los paquetes 
+  - PAQUETES , Las empresas de internet no envian Bite si no que envian paquetes 
+  - SYN /ACK , Enviar datos y recibir que el tipo de dato fue enviado 
+
+ # Clase 20 , Diferencias entre Windows, Linux, Mac, iOS y Android
+
+- Existen 4 sistemas operativos mas importantes
+- Linux es el sistema operativo en el que mas se utilizan para servidores
+- El Kernel es el nucleo de el sistema operativo 
+- Distribuciones : Ubuntu - Red Hat - Mandriva - Kali Linux
+- Los sistemas operativos nacen de "XEROX STAR" Una empresa que no le dio valor a su creacion ni a sus perifericos
+
+ # Clase 21 , Permisos, niveles de procesos y privilegios de ejecución
+
+ - El permiso de ejecucuion se marca como "x"
+ - Los permisos 666 Puede "Leer - Ejecutar - NO Escribir"
+ - Los permisos 777 Puede "Leer - Ejecutar - Escribir"
+ - SUDO Es darle privilegios a un user normal , Casi con las capacidades de el Admin
+
+ # Clase 22 , Fundamentos de sistemas operativos móviles
+
+ - Sibia era una forma de hackear IOS Para poder instalar aplicaciones
+ - Sambox , Es un mecanismo de seguridad para mantener las aplicaciones alejadas entre si
+ - En Andorid normalmente se desarrolla en Java
+ - Para IOS Se llama Objetice C Basado en next
+
+
+
